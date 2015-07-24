@@ -1915,10 +1915,10 @@
       "submitter": "TheAncientGoat",
       "submissionDate": "2014-03-09",
       "tags": [
-	"Production",
+    "Production",
         "Productivity",
-	"Local Storage","IndexDB",
-	"No jQuery",
+    "Local Storage","IndexDB",
+    "No jQuery",
         "Chrome",
         "Extension",
         "To-Do"
@@ -3688,7 +3688,23 @@
         "Responsive",
         "Cloud"
       ]
-    }
-
+    },
+    {
+      "name": "Lister",
+      "thumb": "lister/thumb.png",
+      "desc": "Create and Share Lists",
+      "url": "https://burning-fire-3132.firebaseapp.com/",
+      "info": "https://github.com/anantzoid/Lister",
+      "submitter": "anantziod",
+      "submissionDate": "2015-07-24",
+      "tags": [
+        "SideProject", "Prodution", "Toy", "Learning",
+        "Productivity", "Reading", "Lists", "Social",
+        "Boostrap", "Firebase", "Yeoman",
+        "No jQuery",
+        "Open Source"
+      ]
+    },
+    
   ]
 }
